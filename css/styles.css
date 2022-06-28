@@ -438,7 +438,7 @@ box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12),
     height: 44px;
     border-radius: 50%;
     color: #AFB1B8;
-    background-color: var(--primary-white-color)
+    background-color: var(--primary-white-color);
 
     transition-property: color, background-color;
     transition-duration: var(--fast-animation);
